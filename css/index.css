@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.exercise1,
+.exercise2,
+.exercise3,
+.exercise4 {
+    min-height: 400px;
+    font-family: "EB Garamond", serif;
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 25px;
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+}
+
+button {
+    font-size: 20px !important;
+    background-color: rgb(10, 116, 165) !important;
+    color: #fff !important;
+}
+
+button:hover {
+    background-color: rgba(10, 116, 165, .7) !important;
+    color: #fff !important;
+}
+
+p {
+    color: rgb(92, 92, 92);
+}
+
+.error {
+    color: rgb(204, 52, 25);
+}
